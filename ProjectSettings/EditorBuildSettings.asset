@@ -1,0 +1,76 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/scenes/main.unity
+    guid: a453295e5b1a08d4fa40f04e96b7d307
+  - enabled: 1
+    path: Assets/scenes/q1.unity
+    guid: de9d50071d6a6964d94a6ee500d8420a
+  - enabled: 1
+    path: Assets/scenes/q2.unity
+    guid: 6c0a9e1ee610ea54a850a656b1ea60bb
+  - enabled: 1
+    path: Assets/scenes/q3.unity
+    guid: 311f535351bee5a4faedd063abff2b1d
+  - enabled: 1
+    path: Assets/scenes/q4.unity
+    guid: 03f55111c0763784693bb3d8ccc3a322
+  - enabled: 1
+    path: Assets/scenes/q5.unity
+    guid: a67b7e6c5e3404049a44c6e8854ddbc7
+  - enabled: 1
+    path: Assets/scenes/q6.unity
+    guid: 80e8a42b8566f48468e37d0e6d06a0e1
+  - enabled: 1
+    path: Assets/scenes/q7.unity
+    guid: f1d5512114f0bf648bdffa60924f810d
+  - enabled: 1
+    path: Assets/scenes/q8.unity
+    guid: 7cbc28ccead62bc45bd055e3edc9283e
+  - enabled: 1
+    path: Assets/scenes/q9.unity
+    guid: 7288682450ce61845b377be6d5159aa0
+  - enabled: 1
+    path: Assets/scenes/q10.unity
+    guid: 1f631f0b3a2d32b4ba5fe77611fc88ad
+  - enabled: 1
+    path: Assets/scenes/q11.unity
+    guid: 0ddc0673c334fa54d8ab65e400c2ed79
+  - enabled: 1
+    path: Assets/scenes/q12.unity
+    guid: 94a518e29dfb2cf4ebaa209e85bf6948
+  - enabled: 1
+    path: Assets/scenes/q13.unity
+    guid: cd9265d6876dc054aa53b5eaaed56eee
+  - enabled: 1
+    path: Assets/scenes/q14.unity
+    guid: ba17c8455e4a112418e8a385449b620e
+  - enabled: 1
+    path: Assets/scenes/q15.unity
+    guid: ca55b44993a0c23468c793c487c3b8cb
+  - enabled: 1
+    path: Assets/scenes/q16.unity
+    guid: 11908966fb85a8341b725b1994641165
+  - enabled: 1
+    path: Assets/scenes/q17.unity
+    guid: cbf5fb04d10d38a4382c8944d484ed7c
+  - enabled: 1
+    path: Assets/scenes/q18.unity
+    guid: 35c4c3f2480cf4540ad5c567294b70f8
+  - enabled: 1
+    path: Assets/scenes/q19.unity
+    guid: c75e7d0c5abc8ff46ae2ae974196638d
+  - enabled: 1
+    path: Assets/scenes/q20.unity
+    guid: 8b0a5c228c390164ca8e7bc29eda9163
+  - enabled: 1
+    path: Assets/scenes/score.unity
+    guid: 9bbbe6f9eae76c94e9243d18de5c65b8
+  - enabled: 1
+    path: Assets/scenes/GameController.unity
+    guid: 48a54dba3de748f4d914a7398d292045
